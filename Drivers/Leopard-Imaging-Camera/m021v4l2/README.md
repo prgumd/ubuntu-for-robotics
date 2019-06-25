@@ -67,5 +67,3 @@ demo, cd to <b>gtksdl</b> and type <b>make run</b>.
 <p><li> On desktop Ubuntu 16.04, an <b>Unable to dequeue buffer</b> error
 occurs in the OpenCV C++ examples, and no image is displayed.
 </ul>
-
-**Credits**: [simondlevy](https://github.com/simondlevy/m021v4l2)
